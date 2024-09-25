@@ -27,7 +27,6 @@
 
 ### Socials
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/arnilrashid)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/engr.md.mamun.ar.rashid)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/iam_mamun_rashid)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/md-mamunarrashid-bauet)
@@ -41,6 +40,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnilrashid&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ---
-
-### ⚡ Fun Fact: 
-I'm secretly a **motorcycle racer**! 🏍️
