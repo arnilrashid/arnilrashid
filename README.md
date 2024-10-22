@@ -1,3 +1,4 @@
+<img src="URL_OF_CARTOON_IMAGE" width="100px" style="border-radius: 50%; margin-bottom: 10px;">
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm Md. Mamun Ar Rashid
 
 **Programming Enthusiast | Full Stack Developer | Civil Engineering Graduate | Motorcycle Racer**
