@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently learning **Ruby**  
+- 🔭 I’m currently refining my expertise  
 - 🌍 Based in **Bangladesh**  
 - 📫 How to reach me: [arnilrashid@gmail.com](mailto:arnilrashid@gmail.com)  
 - 👨‍💻 Open to collaborating on exciting projects  
